@@ -13,7 +13,8 @@ package mythread;
 class MyThread extends Thread {
 
     public void run() {
-        System.out.println("running...");
+        System.out.println("Hye Zmah Hata");
+        System.out.println("Welcome to STIW3054 subject");
     }
 
     public static void main(String args[]) {
